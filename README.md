@@ -1,2 +1,2 @@
 # Study
-Repositório criado para armazenar meus arquivos de estudo.
+Repositório para armazenar meus arquivos de estudo.
